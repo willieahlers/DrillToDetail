@@ -1,0 +1,72 @@
+#drillup_btn {
+	background-color:#60A729;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:10px 15px;
+	text-decoration:none;
+	width: 100%;
+	height:100%;
+}
+#drillup_btn:hover {
+	background-color:#469D00;
+}
+#drillup_btn:active {
+	position:relative;
+	top:1px;
+}
+
+#drilldown_btn_tooMany {
+	background-color:#F0F0F0;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:10px 15px;
+	text-decoration:none;
+	width: 100%;
+	height:100%;
+}
+#drilldown_btn_tooMany:hover {
+	background-color:#C0C0C0;
+}
+#drilldown_btn_tooMany:active {
+	position:relative;
+	top:1px;
+}
+
+#drilldown_btn {
+	background-color:#60A729;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:10px 15px;
+	text-decoration:none;
+	width: 100%;
+	height:100%;
+}
+#drilldown_btn:hover {
+	background-color:#469D00;
+}
+#drilldown_btn:active {
+	position:relative;
+	top:1px;
+}
+

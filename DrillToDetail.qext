@@ -1,0 +1,11 @@
+{
+    "name" : "Drill To Detail",
+    "description" : "Extension - When distinct count of dimension = 1 jump to detail sheet...",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1",
+    "preview" : "bar",
+    "author": "Willem Ahlers"
+}
+
+
