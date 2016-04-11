@@ -3,8 +3,8 @@
     "description" : "Extension - When distinct count of dimension = 1 jump to detail sheet...",
     "icon" : "extension",
     "type" : "visualization",
-    "version": "0.1",
-    "preview" : "bar",
+    "version": "2.1",
+    "preview" : "magnify-arrow-down.svg",
     "author": "Willem Ahlers"
 }
 
