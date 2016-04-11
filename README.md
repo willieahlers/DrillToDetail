@@ -14,3 +14,13 @@ Usage:
 
 The sample app has the Drill down button on the Dashboard sheet. Select a single country, and click on the drill down button.
 You will be taken to the Reporting Sheet. On the Reporting Sheet, click on the "back" button, the selection will be cleared and you will be taken back to the Dashboard sheet.
+
+
+Installation:
+
+Desktop: Extract Zip contents to - c:\users\<username>\Documents\Qlik\Sense\Extensions\DrilltoDetail
+Server: Using QMC import the Extension Zip file from the Extensions Screen. (Remove the Example QVF app before doing so.)
+
+Additional Notes:
+1. For use with QlikSense V2.2 and higher.
+
